@@ -1,0 +1,6 @@
+/.git
+/.vs
+/ConsoleApplication1
+/x64
+/Library/x64
+*.sln
